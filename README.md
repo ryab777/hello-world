@@ -1,3 +1,3 @@
 # hello-world
-short description
-This is me.
+Как-то хреново ты напрогал.
+Вот так должно быть.
